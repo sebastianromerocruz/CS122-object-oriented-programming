@@ -2,7 +2,7 @@
 
 <h2 align=center>Pace University Seidenberg School of Computer Science & Information Systems</h2>
 
-<h3 align=center>Spring 2024</h3>
+<h3 align=center>Spring 2025</h3>
 
 ---
 
@@ -38,7 +38,7 @@ Students will get hands-on experience on coding and problem-solving through home
 ### Required Materials
 
 - Java Software Development Kit (SDK)
-- [**Visual Studio Code**](https://code.visualstudio.com/), or any other Java programming environment you feel comfortable using.
+- [**Visual Studio Code**](https://code.visualstudio.com/), or any other Java programming environment you feel comfortable using. You _must_ disable any genAI code-completion services from VSCode for the remainder of this course.
 - **Optional Reference**: Java Software Solutions, 9th edition (or 8th or 7th), Lewis and Loftus, Pearson 9th ed. ISBN 978-0-134-46202-8.
 
 <br>
@@ -46,8 +46,6 @@ Students will get hands-on experience on coding and problem-solving through home
 ### Instructor
 
 [**Sebastián Romero Cruz**](https://github.com/sebastianromerocruz)  _(They / Them)_
-
-I like reading novels, listening and playing music, and watching slice-of-life anime. Nice to meet you.
 
 | **E-Mail**                                                | **Office Hours**                                    |
 |-----------------------------------------------------------|-----------------------------------------------------|
@@ -57,26 +55,40 @@ I like reading novels, listening and playing music, and watching slice-of-life a
 
 ### Course Schedule
 
+#### Calendar
+
 Although I don't anticipate any major changes to this, the following is subject to some minor adjustments throughout the semester:
 
 | **Week**    | **Topic**                                   | **Assignment**              |
 |-------------|---------------------------------------------|-----------------------------|
-| **Week 1**  | Syllabus Review, VSCode Setup, Command Line | Lab 1                       |
-| **Week 2**  | Data and Expressions                        | Labs 2 & 3 / Assignment 1   |
-| **Week 3**  | Conditionals and Loops                      | Labs 4 & 5                  |
-| **Week 4**  | Classes                                     | Labs 6 & 7 / Assignment 2   |
-| **Week 5**  | Object-Oriented Design                      | Labs 8 & 9                  |
-| **Week 6**  | Arrays                                      | Labs 10 & 11 / Assignment 3 |
-| **Week 7**  | Review and Midterm 1                        | Lab 12 (Review)             |
+| **Week 1**  | Syllabus Review, VSCode Setup, Command Line | Labs 1 % 2                  |
+| **Week 2**  | Data and Expressions                        | Labs 3 & 4 / Assignment 1   |
+| **Week 3**  | Conditionals and Loops                      | Labs 5 & 6                  |
+| **Week 4**  | Classes                                     | Labs 7 & 8 / Assignment 2   |
+| **Week 5**  | Object-Oriented Design                      | Labs 9 & 10                 |
+| **Week 6**  | Arrays                                      | Labs 11 & 12 / Assignment 3 |
+| **Week 7**  | Review and Midterm 1                        |                             |
 | **Week 8**  | Inheritance                                 | Labs 13 & 14                |
-| **Week 9**  | Polymorphism                                | Labs 15 & 16                |
-| **Week 10** | _Spring Break (No Classes)_                 |                             |
+| **Week 9**  | _Spring Break_                              |                             |
+| **Week 10** | Polymorphism                                | Labs 15 & 16                |
 | **Week 11** | Exceptions                                  | Labs 17 & 18 / Assignment 4 |
 | **Week 12** | Recursion                                   | Labs 19 & 20                |
 | **Week 13** | Review and Midterm 2                        | Assignment 5                |
-| **Week 14** | Passover and Study Day (No Classes)         |                             |
-| **Week 15** | Collections, Vectors, and Multi-Threading   | Labs 23 & 24                |
-| **Week 16** | Review and Final Exam                       |                             |
+| **Week 14** | Collections, Vectors, and Multi-Threading   | Labs 21 & 22                |
+| **Week 15** | Multi-Threading                             | Labs 21 & 22                |
+| **Week 15** | Review and Final Exam                       |                             |
+
+#### Important Dates
+
+| Date                  | Event         |
+|-----------------------|---------------|
+| Midterm I             | March 6       |
+| Async Lecture         | March 11      |
+| Withdrawal Deadline   | March 17      |
+| Online Lecture        | March 25 & 27 |
+| Midterm II            | April 17      |
+| Async Lecture         | April 22      |
+| Final Exam            | May 8         |
 
 <br>
 
@@ -90,9 +102,11 @@ Although I don't anticipate any major changes to this, the following is subject 
 | **Median Exam Score**  | 20%            |
 | **Highest Exam Score** | 25%            |
 
-- **Labs**: Labs are short programs assigned on the second half of nearly every lecture. These may be done collaboratively with other students,
-  though each of you must turn in your own work. Some labs will be done during class time and must be completed by the end of
-  class and submitted on Classes for full credit. Note that, if you don't finish a lab during class time, you have until 11:59pm of that same day to submit it for full credit.
+- **Labs**: Labs are short programs assigned on the second half of nearly every lecture. 
+  - These may be done collaboratively with other students, though each of you must turn in your own work. Labs will be done during the second half of our allotted lecture time and must be completed by the end of class and submitted on Classes for full credit.
+  - You _must_ be present during lab time in order to receive credit. Unless previously excused, you will receive a 0 on any submitted work if you were not present.
+  - You _must_ work on lab during this allotted time. Work on any coursework not related to this class is strictly forbidden.
+  - It's entirely possible that you don't finish lab during the allotted time. As long as you finish half of it, you'll be fine.
 - **Homework**: Assigned throughout the semester, homework assignments are to be completed independently, outside class 
 time. Assignments will be distributed and submitted on Classes. Never submit your assignment by email or on paper; only homework submitted on Classes will be accepted.  Your grade reflects to
   what extent your solution is correct, both functionally and stylistically.
@@ -115,7 +129,7 @@ We will be following the same grading scale as last semester:
 #### **Introduction To Java**
 
 1. [**Introduction**](src/01-intro/)
-2. [**Hello, JDK: _The Terminal / Command Line and The Java Compiler_**](src/02-setup-command-line/)
+<!-- 2. [**Hello, JDK: _The Terminal / Command Line and The Java Compiler_**](src/02-setup-command-line/)
 3. [**Variables and Constants**](src/03-variables-constants/)
 4. [**Arithmetic Operators and User Input**](src/04-expressions/)
 5. [**Selections**](src/05-selections/)
@@ -125,24 +139,24 @@ We will be following the same grading scale as last semester:
 9. [**Arrays: Basics**](src/09-arrays-1/)
 10. [**Arrays: Memory, 2D Arrays, and Binary Search**](src/10-arrays-2/)
 11. [**Object-Oriented Design**](src/11-class-design/)
-12. [**Midterm I Review**](src/12-midterm-1-review/)
+12. [**Midterm I Review**](src/12-midterm-1-review/) -->
 
 #### **Object-Oriented Programming**
 
-13. [**Inheritance**](src/13-inheritance/)
+<!-- 13. [**Inheritance**](src/13-inheritance/)
 14. [**Method Overriding and Abstract Classes**](src/14-abstract-classes/)
 15. [**Method Overloading and Interfaces**](src/15-interfaces/)
 16. [**Polymorphism: _Inheritance_**](src/16-polymorphism-inheritance/)
 17. [**Polymorphism: _Interfaces_**](src/17-polymorphism-interfaces/)
 18. [**Exceptions: _`try`-`except` Blocks_**](src/18-exceptions-try-catch/)
 19. [**Exceptions: _The `Throwable` Class_**](src/19-exceptions-throwable/)
-20. [**Midterm II Review**](src/20-midterm-2-review/)
+20. [**Midterm II Review**](src/20-midterm-2-review/) -->
 
 #### **Advanced Concepts**
 
-21. [**Recursion**](src/21-recursion/)
+<!-- 21. [**Recursion**](src/21-recursion/)
 22. [**Collections**](src/22-collections/)
-23. [**Final Exam Review**](src/23-final-review)
+23. [**Final Exam Review**](src/23-final-review) -->
 
 <br>
 
