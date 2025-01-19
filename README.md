@@ -94,25 +94,23 @@ Although I don't anticipate any major changes to this, the following is subject 
 
 ### Final Grade Breakdown
 
-|                        | **Percentage** |
-|------------------------|----------------|
-| **Homework**           | 20%            |
-| **Labs**               | 20%            |
-| **Lowest Exam Score**  | 15%            |
-| **Median Exam Score**  | 20%            |
-| **Highest Exam Score** | 25%            |
+|                        | **Percentage**   |
+|------------------------|------------------|
+| **Homework**           | 0%               |
+| **Labs**               | 20%              |
+| **Lowest Exam Score**  | 21%              |
+| **Median Exam Score**  | 27%              |
+| **Highest Exam Score** | 32%              |
 
+- **Homework**: Assigned throughout the semester, homework assignments are totally optional, but great ways to prepare yourself for exams. 
+  - Assignments will be distributed on Classes.
+  - There will be a total of 5 homework assignments this semester, each covering the past 2-3 weeks of material. 
+  - Solutions to each assignment will be provided after their respective deadlines.
 - **Labs**: Labs are short programs assigned on the second half of nearly every lecture. 
   - These may be done collaboratively with other students, though each of you must turn in your own work. Labs will be done during the second half of our allotted lecture time and must be completed by the end of class and submitted on Classes for full credit.
   - You _must_ be present during lab time in order to receive credit. Unless previously excused, you will receive a 0 on any submitted work if you were not present.
   - You _must_ work on lab during this allotted time. Work on any coursework not related to this class is strictly forbidden.
   - It's entirely possible that you don't finish lab during the allotted time. As long as you finish half of it, you'll be fine.
-- **Homework**: Assigned throughout the semester, homework assignments are to be completed independently, outside class 
-time. Assignments will be distributed and submitted on Classes. Never submit your assignment by email or on paper; only homework submitted on Classes will be accepted.  Your grade reflects to
-  what extent your solution is correct, both functionally and stylistically.
-  - There will be a total of 5 homework assignments this semester, each covering the past 2-3 weeks of material. 
-  - **Note**: _Plagiarism or academic dishonesty will, at least, result in a zero for the assignment for the first offense, and failure of the course for subsequent offenses._
-  - ***It is important that the work required by the course is yours. You should not use ChatGPT or other AI tools for any purpose other than idea generation.***
 - **Exams**: Midterm exams will happen twice during the semester, plus the final exam. Note that your most successful 
 exam carries more weight toward your final grade than the other exams. Do not miss a test unless a (documentable) emergency prevents your participation.
 

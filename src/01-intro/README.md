@@ -27,7 +27,7 @@ There's nothing too much that I want to say about myself that concerns this cour
 
 Alright, with that out of the way, let's start off simple this week–nothing too crazy.
 
-<sub>**Previous: **Next: [Hello, SDK!](/src/02-setup-command-line)**</sub>
+<sub>**Next: [Hello, SDK!](/src/02-setup-command-line)**</sub>
 
 <!-- ### Course Setup (Lab 1)
 
