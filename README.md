@@ -25,7 +25,7 @@
 
 ### Course Description
 
-<h5 align=center><em>Tuesday and Thursday, 10:05 am - 12:05 pm at 15 Beekman Street 15BK 804</em></h5>
+<h5 align=center><em>Tuesday and Thursday, 10:05 am - 12:05 pm at 15 Beekman Street 15BK 1010</em></h5>
 
 This is the advanced level Java programming class following the Python programming class CS121. 
 
