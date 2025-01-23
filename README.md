@@ -25,7 +25,7 @@
 
 ### Course Description
 
-<h5 align=center><em>Tuesday and Thursday, 10:05 am - 12:05 pm at 15 Beekman Street 15BK 1010</em></h5>
+<h5 align=center><em>Tuesday and Thursday, 10:05 am - 12:05 pm at 15 Beekman Street 15BK 906</em></h5>
 
 This is the advanced level Java programming class following the Python programming class CS121. 
 
@@ -127,17 +127,17 @@ We will be following the same grading scale as last semester:
 #### **Introduction To Java**
 
 1. [**Introduction**](src/01-intro/)
-<!-- 2. [**Hello, JDK: _The Terminal / Command Line and The Java Compiler_**](src/02-setup-command-line/)
-3. [**Variables and Constants**](src/03-variables-constants/)
-4. [**Arithmetic Operators and User Input**](src/04-expressions/)
-5. [**Selections**](src/05-selections/)
-6. [**Loops**](src/06-loops/)
-7. [**Static Methods**](src/07-static-methods/)
-8. [**Return Types**](src/08-return/)
-9. [**Arrays: Basics**](src/09-arrays-1/)
-10. [**Arrays: Memory, 2D Arrays, and Binary Search**](src/10-arrays-2/)
-11. [**Object-Oriented Design**](src/11-class-design/)
-12. [**Midterm I Review**](src/12-midterm-1-review/) -->
+2. [**Hello, JDK: _The Terminal / Command Line and The Java Compiler_**](src/02-setup-command-line/)
+<!-- 3. [**Variables and Constants**](src/03-variables-constants/) -->
+<!-- 4. [**Arithmetic Operators and User Input**](src/04-expressions/) -->
+<!-- 5. [**Selections**](src/05-selections/) -->
+<!-- 6. [**Loops**](src/06-loops/) -->
+<!-- 7. [**Static Methods**](src/07-static-methods/) -->
+<!-- 8. [**Return Types**](src/08-return/) -->
+<!-- 9. [**Arrays: Basics**](src/09-arrays-1/) -->
+<!-- 10. [**Arrays: Memory, 2D Arrays, and Binary Search**](src/10-arrays-2/) -->
+<!-- 11. [**Object-Oriented Design**](src/11-class-design/) -->
+<!-- 12. [**Midterm I Review**](src/12-midterm-1-review/) -->
 
 #### **Object-Oriented Programming**
 

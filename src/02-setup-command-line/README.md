@@ -2,16 +2,20 @@
 
 <h1 align=center>Hello, JDK: <em>The Terminal / Command Line and The Java Compiler</em></h1>
 
-<p align=center><strong><em>Song of the day</strong>: <a href="https://youtu.be/-UWpbEsj2yA?si=BaUfmDJXznXrC3J7"><strong><u>Sunkissed</u></strong></a> by The Vaccines (2024)</em></p>
+<p align=center><strong><em>Song of the day</strong>: <a href="https://youtu.be/QnvzvKSE3r8?si=unSh4HWny8s5oIP1"><strong><u>Fleeting Frozen Heart</u></strong></a> by Xxtarlit⚸ (2021)</em>, recommended by Joshua Charles</p>
+
+---
 
 ### Sections
 
-1. [**Our First Java Program**](#part-1-our-first-java-program)
-2. [**Compiling a Java File**](#part-2-compiling-a-java-file)
-3. [**Running a Java File**](#part-3-running-a-java-file)
-4. [**Demystifying Java**](#part-4-demystifying-java)
+1. [**Our First Java Program**](#1)
+2. [**Compiling a Java File**](#2)
+3. [**Running a Java File**](#3)
+4. [**Demystifying Java**](#4)
 
 ---
+
+<a id="1"></a>
 
 ### Part 1: _Our First Java Program_
 
@@ -52,6 +56,10 @@ class HelloWorld {
 
 `System.out.println()` is basically the equivalent of a `print()` statement—it tells Java to display whatever is passed as an argument to `println()` in our `System`'s standard `out`-put (the Terminal). In this case, that whatever is the **string** of characters `"Hello, World!"` (strings are denoted in Java by quotation `"` marks. You _cannot_ use single quotation `'` marks for strings in Java.).
 
+<a id="2"></a>
+
+<br>
+
 ### Part 2: _Compiling a Java file_
 
 Cool, so how to we run this? Java, unlike Python, is a _compiled_ language, meaning that we first need to break down our source code into something called "bytecode". This, essentially, is our code deconstructed in such a way that the _Java Virtual Machine_ (JVM) can interpret and tell your computer to run. The way we do this in our command line / Terminal is as follows:
@@ -73,6 +81,10 @@ If we use the Terminal command `cat`, we can get a quick glimpse of the contents
 
 <sub>**Figure 2**: The Terminal showing us the contents of `HelloWorld.class`. It's contents, intended for your computer to interpret, are thus very difficult for _us_ to understand.</sub>
 
+<a id="3"></a>
+
+<br>
+
 ### Part 3: _Running a Java file_
 
 Just compiling a Java file is not enough to actually run it—that's actually what our `.class` file is for. In order to run it, we use the `java` command:
@@ -82,6 +94,10 @@ Just compiling a Java file is not enough to actually run it—that's actually wh
 <sub>**Figure 3**: Running our `HelloWorld` program. Note that, when using the `java` command, we don't include the `.class` extension.</sub>
 
 There it is! Our Java file's output: a nice "Hello, World!". Congrats; you're a programmer now.
+
+<a id="4"></a>
+
+<br>
 
 ### Part 4: _Demystifying Java_
 
