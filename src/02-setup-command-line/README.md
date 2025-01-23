@@ -6,7 +6,7 @@
 
 ---
 
-### Sections
+## Sections
 
 1. [**Our First Java Program**](#1)
 2. [**Compiling a Java File**](#2)
@@ -17,7 +17,7 @@
 
 <a id="1"></a>
 
-### Part 1: _Our First Java Program_
+## Part 1: _Our First Java Program_
 
 Before we get into the Java environment, let's just actually _write_ a quick program in Java for better context. Every single Java program must exist within the confines of a **class definition**. By convention, we write class names using capitalised camel-case (i.e. `LikeThis` and not `Like_This`):
 
@@ -60,7 +60,7 @@ class HelloWorld {
 
 <br>
 
-### Part 2: _Compiling a Java file_
+## Part 2: _Compiling a Java file_
 
 Cool, so how to we run this? Java, unlike Python, is a _compiled_ language, meaning that we first need to break down our source code into something called "bytecode". This, essentially, is our code deconstructed in such a way that the _Java Virtual Machine_ (JVM) can interpret and tell your computer to run. The way we do this in our command line / Terminal is as follows:
 
@@ -85,7 +85,7 @@ If we use the Terminal command `cat`, we can get a quick glimpse of the contents
 
 <br>
 
-### Part 3: _Running a Java file_
+## Part 3: _Running a Java file_
 
 Just compiling a Java file is not enough to actually run it—that's actually what our `.class` file is for. In order to run it, we use the `java` command:
 
@@ -99,7 +99,7 @@ There it is! Our Java file's output: a nice "Hello, World!". Congrats; you're a 
 
 <br>
 
-### Part 4: _Demystifying Java_
+## Part 4: _Demystifying Java_
 
 Java is sometimes (and infamously) referred to as a verbose language. This is a diplomatic way of saying that, until a certain point, nobody has any idea of what half of what they are writing means (especially if they have never programmed before). Let's take our `HelloWorld` program from earlier and use the following table to make sense of it:
 
