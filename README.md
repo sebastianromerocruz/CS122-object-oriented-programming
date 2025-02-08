@@ -134,7 +134,7 @@ We will be following the same grading scale as last semester:
 6. [**Loops**](src/06-loops/)
 7. [**Static Methods**](src/07-static-methods/)
 8. [**Return Types**](src/08-return/)
-<!-- 9. [**Arrays: Basics**](src/09-arrays-1/) -->
+9. [**Arrays: Basics**](src/09-arrays-1/)
 <!-- 10. [**Arrays: Memory, 2D Arrays, and Binary Search**](src/10-arrays-2/) -->
 <!-- 11. [**Object-Oriented Design**](src/11-class-design/) -->
 <!-- 12. [**Midterm I Review**](src/12-midterm-1-review/) -->
