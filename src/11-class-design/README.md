@@ -1,4 +1,4 @@
-<h2 align=center>Week 06</h2>
+<h2 align=center>Week 05: <em>Day 2</em></h2>
 
 <h1 align=center>Object-Oriented Design</h1>
 
@@ -8,12 +8,14 @@
 
 ### Sections
 
-1. [**Custom Classes In Java**](#part-1-custom-classes-in-java)
-2. [**Java Constructors**](#part-2-java-constructors)
-3. [**Methods**](#part-3-methods)
-4. [**Access Modifiers**](#part-4-access-modifiers)
+1. [**Custom Classes In Java**](#1)
+2. [**Java Constructors**](#2)
+3. [**Methods**](#3)
+4. [**Access Modifiers**](#4)
 
 ---
+
+<a id="1"></a>
 
 ### Part 1: _Custom Classes In Java_
 
@@ -42,6 +44,8 @@ for (Song song : playlist) {
 So, let's go through the steps to make the above behaviour happen.
 
 <br>
+
+<a id="2"></a>
 
 ### Part 2: _Java Constructors and Attributes_
 
@@ -124,6 +128,8 @@ class Song {
 
 <br>
 
+<a id="3"></a>
+
 ### Part 3: _Methods_
 
 We already know about Java methods from our time with `static` methods. Since now we want to write methods that are called from objects of classes, we no longer need the `static` keyword. Let's write a `play` that increments the `playCount` attribute.
@@ -168,6 +174,8 @@ After calling the play method: 1
 We pretty much know how methods work otherwise, so that's enough for now.
 
 <br>
+
+<a id="4"></a>
 
 ### Part 4: _Access Modifiers_
 
