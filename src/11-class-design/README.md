@@ -205,7 +205,7 @@ This is, naturally, extremely dangerous, since potentially really sensitive data
 |**`private`**|Classes, methods or data members declared as _private_ are accessible only within the class in which they are declared.|
 |**`protected`**|Classes, methods or data members declared as _protected_ are accessible within the same package or subclasses in different packages (more on this one after the midterm).|
 |**`public`**|Classes, methods, or data members that are declared as _public_ are accessible from everywhere in the program. There is no restriction on the scope of public data members..|
-|**Default**|When no access modifier is specified for a class, method, or data member – It is said to be having the default access modifier by default. The data members, classes, or methods that are not declared using any access modifiers i.e. having default access modifiers are accessible only within the same package (i.e. same folder).|
+|**Default**|The data members, classes, or methods that are not declared using any access modifiers, i.e. having the default access modifier, are accessible only within the same package (i.e. same folder).|
 
 The two modifiers that we're going to concern ourselves with for now are `public` and `private`. Here's the rules-of-thumb I want you to follow:
 
