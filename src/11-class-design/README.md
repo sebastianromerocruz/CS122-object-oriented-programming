@@ -6,7 +6,7 @@
 
 ---
 
-### Sections
+## Sections
 
 1. [**Custom Classes In Java**](#1)
 2. [**Java Constructors**](#2)
@@ -17,7 +17,7 @@
 
 <a id="1"></a>
 
-### Part 1: _Custom Classes In Java_
+## Part 1: _Custom Classes In Java_
 
 It's time, y'all. We've reached the point where CS121 material ends, and object-oriented programming begins in earnest. Java is particularly suited for this role, since we literally write all of our code in a class definition. But now, our goal is to be able to write our own class so that we can do this:
 
@@ -47,7 +47,7 @@ So, let's go through the steps to make the above behaviour happen.
 
 <a id="2"></a>
 
-### Part 2: _Java Constructors and Attributes_
+## Part 2: _Java Constructors and Attributes_
 
 Java constructors are basically the equivalent of Python's initializer. So, let's say we wanted to turn the following Python class into Java:
 
@@ -130,7 +130,7 @@ class Song {
 
 <a id="3"></a>
 
-### Part 3: _Methods_
+## Part 3: _Methods_
 
 We already know about Java methods from our time with `static` methods. Since now we want to write methods that are called from objects of classes, we no longer need the `static` keyword. Let's write a `play` that increments the `playCount` attribute.
 
@@ -177,7 +177,7 @@ We pretty much know how methods work otherwise, so that's enough for now.
 
 <a id="4"></a>
 
-### Part 4: _Access Modifiers_
+## Part 4: _Access Modifiers_
 
 So, what is `public` for? You see, Java was designed with safety primarily in mind. In other words, Java wants you to design your classes in a way that gives the users of those classes the _least power to modify objects of that class_. In other words, the problem with our `Song` class definition is that the user of a `Song` object can easily change the name of the song whenever they want to:
 

@@ -6,7 +6,7 @@
 
 ---
 
-### Sections
+## Sections
 
 1. [**Passing By Value vs. Passing By Reference**](#1)
 2. [**2D Arrays In Java**](#2)
@@ -16,7 +16,7 @@
 
 <a id="1"></a>
 
-### Part 1: _Passing By Value vs. Passing By Reference_
+## Part 1: _Passing By Value vs. Passing By Reference_
 
 One thing I want to make sure that we understand moving forward is what exactly happens when we pass in an array as an argument to a method. To start, what will happen if we compile and run the following code?
 
@@ -106,7 +106,7 @@ We can also see this represented in our code visualiser by the arrows coming fro
 
 <a id="2"></a>
 
-### Part 2: _2D Arrays In Java_
+## Part 2: _2D Arrays In Java_
 
 I quickly want to introduce how to make arrays of arrays in Java (you may remember lists of lists in Python) and how to create and work with them.
 
@@ -169,7 +169,7 @@ int[][] integers = {
 
 <a id="3"></a>
 
-### Part 3: _Binary Search_
+## Part 3: _Binary Search_
 
 There are always these great, pivotal moments in every programmer's career—learning how to iterate, learning a second language, etc.. One of those moments has to be, without a doubt, the moment you learn about **binary search**. Binary search is a lovely algorithm; it's simple, it's elegant, it's easy to understand, implement, and use. And, so, it is going to be our main focus for today.
 
