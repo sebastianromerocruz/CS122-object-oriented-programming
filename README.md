@@ -141,7 +141,7 @@ We will be following the same grading scale as last semester:
 
 #### **Object-Oriented Programming**
 
-13. [**Inheritance**](src/13-inheritance/)
+13. [**Inheritance**](src/12-inheritance/)
 <!--14. [**Method Overriding and Abstract Classes**](src/14-abstract-classes/)
 15. [**Method Overloading and Interfaces**](src/15-interfaces/)
 16. [**Polymorphism: _Inheritance_**](src/16-polymorphism-inheritance/)
