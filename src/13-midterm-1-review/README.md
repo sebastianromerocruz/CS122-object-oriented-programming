@@ -161,12 +161,12 @@ public static String END_SIGNAL = "DONE";
 
 #### **`static boolean getItem(String[] cart, int itemsInCart)`**
 
-The **`getItem`** method will accept the following attributes:
+The **`getItem`** method will accept the following parameters:
 
 1. `String[] cart`: This string array represents the player's cart, where each member `String` object represents one grocery item.
 2. `int itemsInCart`: The current amount of items in `cart`. This means that if `cart.size` is equal to 4 and `itemsInCart` is equal to 2, then `cart[0]` and `cart[1]` contain strings, but `cart[3]` and `cart[4]` do not contain anything.
 
-Using these arguments, we're going to do the following:
+Using these parameters, we're going to do the following:
 
 1. Check if `cart` is full. If it is, print an error message and return `false`.
 2. If it isn't full, then select a random item name from `ITEMS` to put into our cart. Recall that we can get a random integer in the range `[0, a]` by doing the following:
