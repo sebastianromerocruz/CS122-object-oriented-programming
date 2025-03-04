@@ -9,10 +9,11 @@
 ## Sections
 
 1. [**Multiple Choice**](#1)
-2. [**Programming**](#2)
-    1. [**Background**](#2-1)
-    2. [**Specifications**](#2-2)
-    3. [**Sample Execution**](#2-3)
+2. [**Long Response**](#2)
+2. [**Programming**](#3)
+    1. [**Background**](#3-1)
+    2. [**Specifications**](#3-2)
+    3. [**Sample Execution**](#3-3)
 
 ---
 
@@ -91,11 +92,50 @@ public class MainClass {
 - [ ] `5 4 0 1`
 - [ ] `2 5 0 1`
 
+<br>
+
 <a id="2"></a>
+
+When compiled and run, what would the following program print?
+
+```java
+public class Test {
+    public static void methodOne(String str, int num) {
+        System.out.print("Start");
+        String result = methodTwo(str, num);
+        System.out.print(result);
+        System.out.print("Finish");
+    }
+
+    public static String methodTwo(String word, int number) {
+        System.out.print("Processing");
+        String result = methodThree(word, number);
+        System.out.print("Intermediate");
+        return result.toLowerCase();
+    }
+
+    public static String methodThree(String word, int number) {
+        System.out.print(word.charAt(number));
+        if (number > 0) {
+            return word.substring(0, number);
+        } else {
+            return word;
+        }
+    }
+
+    public static void main(String[] args) {
+        methodOne("Reflection", 3);
+    }
+}
+```
+
+<br>
+
+<a id="3"></a>
 
 ## Programming
 
-<a id="2-1"></a>
+<a id="3-1"></a>
 
 ### Background
 
@@ -115,7 +155,7 @@ public static String[] ITEMS = {
 public static String END_SIGNAL = "DONE";
 ```
 
-<a id="2-2"></a>
+<a id="3-2"></a>
 
 ### Specifications
 
@@ -182,7 +222,7 @@ Inside your `main` method, perform the following steps:
 
 See my sample execution below. Your output doesn't need to match mine exactly.
 
-<a id="2-3"></a>
+<a id="3-3"></a>
 
 ### Sample Execution
 
