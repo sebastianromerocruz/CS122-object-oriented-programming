@@ -144,9 +144,9 @@ We will be following the same grading scale as last semester:
 13. [**Inheritance**](src/12-inheritance/)
 14. [**Method Overriding and Abstract Classes**](src/13-abstract-classes/)
 15. [**Method Overloading and Interfaces**](src/14-interfaces/)
-<!--
 16. [**Polymorphism: _Inheritance_**](src/16-polymorphism-inheritance/)
 17. [**Polymorphism: _Interfaces_**](src/17-polymorphism-interfaces/)
+<!--
 18. [**Exceptions: _`try`-`except` Blocks_**](src/18-exceptions-try-catch/)
 19. [**Exceptions: _The `Throwable` Class_**](src/19-exceptions-throwable/)
 20. [**Midterm II Review**](src/20-midterm-2-review/) -->
