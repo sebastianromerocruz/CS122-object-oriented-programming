@@ -6,15 +6,19 @@
 
 ---
 
-### Sections
+## Sections
 
-1. [**Course Description**](#course-description)
-2. [**Required Materials**](#required-materials)
-3. [**Instructor**](#instructor)
-4. [**Course Schedule**](#course-schedule)
-5. [**Final Grade Breakdown**](#final-grade-breakdown)
-6. [**Lecture Notes**](#lecture-notes)
-7. [**University Resources and Policies**](#university-resources-and-policies)
+1. [**Lecture Notes**](#1)
+    1. [**Introduction To Java**](#1-1)
+    2. [**Object-Oriented Programming**](#1-2)
+    3. [**Advanced Concepts**](#1-3)
+2. [**Course Description**](#2)
+3. [**Required Materials**](#3)
+4. [**Instructor**](#4)
+5. [**Course Schedule**](#5)
+6. [**Final Grade Breakdown**](#6)
+7. [**Academic Integrity Code**](#7)
+8. [**University Resources and Policies**](#8)
     - [**Procedure for Students Who Wish to Obtain Reasonable Accommodations for a Course**](#procedure-for-students-who-wish-to-obtain-reasonable-accommodations-for-a-course)
     - [**Technological Resources**](#technological-resources)
     - [**Appropriate Use Policy for Information Technology**](#appropriate-use-policy-for-information-technology)
@@ -23,7 +27,54 @@
 
 ---
 
-### Course Description
+<a id="1"></a>
+
+## Lecture Notes
+
+<a id="1-1"></a>
+
+### **Introduction To Java**
+
+1. [**Introduction**](src/01-intro/)
+2. [**Hello, JDK: _The Terminal / Command Line and The Java Compiler_**](src/02-setup-command-line/)
+3. [**Variables and Constants**](src/03-variables-constants/)
+4. [**Arithmetic Operators and User Input**](src/04-expressions/)
+5. [**Selections**](src/05-selections/)
+6. [**Loops**](src/06-loops/)
+7. [**Static Methods**](src/07-static-methods/)
+8. [**Return Types**](src/08-return/)
+9. [**Arrays: Basics**](src/09-arrays-1/)
+10. [**Arrays: Memory, 2D Arrays, and Binary Search**](src/10-arrays-2/)
+11. [**Object-Oriented Design**](src/11-class-design/)
+12. [**Midterm I Review**](src/13-midterm-1-review/)
+
+<a id="1-2"></a>
+
+### **Object-Oriented Programming**
+
+13. [**Inheritance**](src/12-inheritance/)
+14. [**Method Overriding and Abstract Classes**](src/13-abstract-classes/)
+15. [**Method Overloading and Interfaces**](src/14-interfaces/)
+16. [**Polymorphism: _Inheritance_**](src/16-polymorphism-inheritance/)
+17. [**Polymorphism: _Interfaces_**](src/17-polymorphism-interfaces/)
+18. [**Exceptions: _`try`-`except` Blocks_**](src/18-exceptions-try-catch/)
+<!--
+19. [**Exceptions: _The `Throwable` Class_**](src/19-exceptions-throwable/)
+20. [**Midterm II Review**](src/20-midterm-2-review/) -->
+
+<a id="1-3"></a>
+
+### **Advanced Concepts**
+
+<!-- 21. [**Recursion**](src/21-recursion/)
+22. [**Collections**](src/22-collections/)
+23. [**Final Exam Review**](src/23-final-review) -->
+
+<br>
+
+<a id="2"></a>
+
+## Course Description
 
 <h5 align=center><em>Tuesday and Thursday, 10:05 am - 12:05 pm at 15 Beekman Street 15BK 906</em></h5>
 
@@ -35,7 +86,9 @@ Students will get hands-on experience on coding and problem-solving through home
 
 <br>
 
-### Required Materials
+<a id="3"></a>
+
+## Required Materials
 
 - Java Software Development Kit (SDK)
 - [**Visual Studio Code**](https://code.visualstudio.com/), or any other Java programming environment you feel comfortable using. You _must_ disable any genAI code-completion services from VSCode for the remainder of this course.
@@ -43,7 +96,9 @@ Students will get hands-on experience on coding and problem-solving through home
 
 <br>
 
-### Instructor
+<a id="4"></a>
+
+## Instructor
 
 [**Sebastián Romero Cruz**](https://github.com/sebastianromerocruz)  _(They / Them)_
 
@@ -53,9 +108,11 @@ Students will get hands-on experience on coding and problem-solving through home
 
 <br>
 
-### Course Schedule
+<a id="5"></a>
 
-#### Calendar
+## Course Schedule
+
+### Calendar
 
 Although I don't anticipate any major changes to this, the following is subject to some minor adjustments throughout the semester:
 
@@ -78,7 +135,7 @@ Although I don't anticipate any major changes to this, the following is subject 
 | **Week 15** | Multi-Threading                             | Labs 21 & 22                |
 | **Week 15** | Review and Final Exam                       |                             |
 
-#### Important Dates
+### Important Dates
 
 | Date                  | Event         |
 |-----------------------|---------------|
@@ -92,7 +149,9 @@ Although I don't anticipate any major changes to this, the following is subject 
 
 <br>
 
-### Final Grade Breakdown
+<a id="6"></a>
+
+## Final Grade Breakdown
 
 |                        | **Percentage**   |
 |------------------------|------------------|
@@ -122,61 +181,28 @@ We will be following the same grading scale as last semester:
 
 <br>
 
-### Lecture Notes
+<a id="7"></a>
 
-#### **Introduction To Java**
-
-1. [**Introduction**](src/01-intro/)
-2. [**Hello, JDK: _The Terminal / Command Line and The Java Compiler_**](src/02-setup-command-line/)
-3. [**Variables and Constants**](src/03-variables-constants/)
-4. [**Arithmetic Operators and User Input**](src/04-expressions/)
-5. [**Selections**](src/05-selections/)
-6. [**Loops**](src/06-loops/)
-7. [**Static Methods**](src/07-static-methods/)
-8. [**Return Types**](src/08-return/)
-9. [**Arrays: Basics**](src/09-arrays-1/)
-10. [**Arrays: Memory, 2D Arrays, and Binary Search**](src/10-arrays-2/)
-11. [**Object-Oriented Design**](src/11-class-design/)
-12. [**Midterm I Review**](src/13-midterm-1-review/)
-
-#### **Object-Oriented Programming**
-
-13. [**Inheritance**](src/12-inheritance/)
-14. [**Method Overriding and Abstract Classes**](src/13-abstract-classes/)
-15. [**Method Overloading and Interfaces**](src/14-interfaces/)
-16. [**Polymorphism: _Inheritance_**](src/16-polymorphism-inheritance/)
-17. [**Polymorphism: _Interfaces_**](src/17-polymorphism-interfaces/)
-<!--
-18. [**Exceptions: _`try`-`except` Blocks_**](src/18-exceptions-try-catch/)
-19. [**Exceptions: _The `Throwable` Class_**](src/19-exceptions-throwable/)
-20. [**Midterm II Review**](src/20-midterm-2-review/) -->
-
-#### **Advanced Concepts**
-
-<!-- 21. [**Recursion**](src/21-recursion/)
-22. [**Collections**](src/22-collections/)
-23. [**Final Exam Review**](src/23-final-review) -->
-
-<br>
-
-### Academic Integrity Code
+## Academic Integrity Code
 
 Students in this course are required to adhere to Pace University's Academic Integrity Code. The Academic Integrity Code supports honesty and ethical conduct in the educational process. It educates students about what constitutes academic misconduct, helps to deter cheating and plagiarism, and provides a procedure for handling cases of academic misconduct. Students are expected to be familiar with the Code, which can be found under "University Policies" in the [**Student Handbook**](https://www.pace.edu/student-handbook).
 
 <br>
 
-### University Resources and Policies
+<a id="8"></a>
 
-#### Procedure for Students Who Wish to Obtain Reasonable Accommodations for a Course
+## University Resources and Policies
+
+### Procedure for Students Who Wish to Obtain Reasonable Accommodations for a Course
 
 The University's commitment to equal educational opportunities for students with disabilities includes providing reasonable accommodations for the needs of students with disabilities. To request a reasonable accommodation for a qualified disability a student with a disability must self-identify and register with Student Accessibility Services for his or her campus. No one, including faculty, is authorized to evaluate the need for or grant a request for an accommodation except Student Accessibility Services. Moreover, no one, including faculty, is authorized to contact Student Accessibility Services on behalf of a student. For further information, please see the [**Resources for Students with Disabilities**](https://www.pace.edu/student-accessibility-services) page.
 
-#### Technological Resources
+### Technological Resources
 
 - List of all [**Pace Information Technology Services**](https://www.pace.edu/its).
 - For assistance with a technological concern (Classes, Internet, Computer, etc.), contact the Pace Helpdesk at 914-773-3648 or create a [**help desk ticket**](https://helpdesk.pace.edu/TDClient/213/Portal/Home/).
 
-#### Appropriate Use Policy for Information Technology
+### Appropriate Use Policy for Information Technology
 
 Pace endorses the following statement on software and intellectual rights distributed by EDUCAUSE, the non-profit consortium of colleges and universities, committed to the use and management of information technology in higher education. The statement reads:
 
@@ -186,7 +212,7 @@ Pace endorses the following statement on software and intellectual rights distri
 
 [**Pace’s appropriate use policy**](https://www.pace.edu/its/about-its/it-policies/it-appropriate-use-policy) applies to recordings of classroom instruction and digital artifacts created by faculty and students.
 
-#### Sex-Based Misconduct Policy and Procedure
+### Sex-Based Misconduct Policy and Procedure
 
 Pace University is committed to providing a safe environment for every member of its community and to ensuring that no student, faculty or staff member is excluded from participation in or denied the benefits of any University program or ac:vity on the basis of sex. Accordingly, the University prohibits the following forms of Sex-Based Misconduct: sexual assault, sexual harassment, gender-based harassment, da:ng violence, domes:c violence, sexual exploitation and stalking.
 
@@ -194,7 +220,7 @@ Instructors are a non-confidential resource and have an obligation to report any
 
 Members of the University community who believe that they have been subjected to Sex-Based Misconduct are encouraged to report such incidents to the University and, where applicable, to local law enforcement. **Confidential** resources include the **University Counseling Centers, Offices of Sexual and Interpersonal Wellness** and **University Healthcare**. Contact information for those offices may be found in the self-care section below.
 
-#### Self-Care
+### Self-Care
 
 Your academic success in this course and throughout your college career depends heavily on your personal health and well-being. Stress is a common part of the college experience, and it often can be compounded by unexpected life changes outside the classroom. The Pace Community strongly encourages you to take care of yourself throughout the term, before the demands of midterms and finals reach their peak. Please feel free to talk with me about any difficulty you may be having that may impact your performance in this course as soon as it occurs and before it becomes unmanageable. Please know there are a number of other support services on campus that stand ready to assist you. I strongly encourage you to contact them when needed.
 
