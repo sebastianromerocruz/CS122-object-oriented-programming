@@ -58,9 +58,8 @@
 16. [**Polymorphism: _Inheritance_**](src/16-polymorphism-inheritance/)
 17. [**Polymorphism: _Interfaces_**](src/17-polymorphism-interfaces/)
 18. [**Exceptions: _`try`-`except` Blocks_**](src/18-exceptions-try-catch/)
-<!--
 19. [**Exceptions: _The `Throwable` Class_**](src/19-exceptions-throwable/)
-20. [**Midterm II Review**](src/20-midterm-2-review/) -->
+<!-- 20. [**Midterm II Review**](src/20-midterm-2-review/) -->
 
 <a id="1-3"></a>
 

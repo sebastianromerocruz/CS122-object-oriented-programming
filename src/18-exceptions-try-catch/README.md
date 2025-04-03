@@ -1,4 +1,4 @@
-<h2 align=center>Week 1１: <em>Day 1</em></h2>
+<h2 align=center>Week 11: <em>Day 1</em></h2>
 
 <h1 align=center>Exceptions: <em><code>try</code>-<code>catch</code> Blocks</em></h1>
 
