@@ -65,9 +65,9 @@
 
 ### **Advanced Concepts**
 
-<!-- 21. [**Recursion**](src/21-recursion/)
+21. [**Recursion**](src/21-recursion/)
 22. [**Collections**](src/22-collections/)
-23. [**Final Exam Review**](src/23-final-review) -->
+<!-- 23. [**Final Exam Review**](src/23-final-review) -->
 
 <br>
 
